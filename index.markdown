@@ -5,7 +5,7 @@
 layout: default
 ---
 <body>
-welcome to the project page of Darrin Seats
+Welcome to the project page of Darrin Seats.
 <br><br>
 My personal A Cloud Guru account, formally Linux Academy, is web scraped once a day.<br>
 If there are new completed courses, they are programmatically added to this webpage.<br><br>
