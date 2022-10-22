@@ -4,7 +4,8 @@
 
 layout: home
 ---
-welcome to the project page of Darrin Seats
+<body>
+Welcome to the project page of Darrin Seats
 <br><br>
 My personal A Cloud Guru account, formally Linux Academy, is web scraped once a day.<br>
 If there are new completed courses, they are programmatically added to this webpage.<br><br>
@@ -45,3 +46,4 @@ Introduction to Ansible  <a href="https://verify.acloud.guru/EEBC2026E3A7" rel="
 <br>
 Red Hat Certified System Administrator (EX200) Exam Prep  <a href="https://verify.acloud.guru/7658B25096BF" rel="noopener noreferrer" target="_blank" class="ViewCertificate__Link-prdf0c-0 htByEW">View certificate</a>
 <br>
+</body>
