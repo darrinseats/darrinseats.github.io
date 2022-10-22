@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 Welcome to the project page of Darrin Seats
 <br><br>
 My personal A Cloud Guru account, formally Linux Academy, is web scraped once a day.<br>
