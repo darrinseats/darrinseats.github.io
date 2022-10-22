@@ -11,3 +11,4 @@ kramdown:
 domain: darrinseats.github.io
 url: https://darrinseats.github.io
 baseurl: /darrinseats/
+theme: minima
